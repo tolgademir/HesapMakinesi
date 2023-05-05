@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tolga\\source\\repos\\HesapMakinesi\\HesapMakinesi\\HesapMakinesi.csproj",
+      "projectUniqueName": "C:\\Users\\tolga\\Documents\\GitHub\\HesapMakinesi\\HesapMakinesi\\HesapMakinesi.csproj",
       "projectName": "HesapMakinesi",
-      "projectPath": "C:\\Users\\tolga\\source\\repos\\HesapMakinesi\\HesapMakinesi\\HesapMakinesi.csproj",
+      "projectPath": "C:\\Users\\tolga\\Documents\\GitHub\\HesapMakinesi\\HesapMakinesi\\HesapMakinesi.csproj",
       "packagesPath": "C:\\Users\\tolga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tolga\\source\\repos\\HesapMakinesi\\HesapMakinesi\\obj\\",
+      "outputPath": "C:\\Users\\tolga\\Documents\\GitHub\\HesapMakinesi\\HesapMakinesi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tolga\\AppData\\Roaming\\NuGet\\NuGet.Config",
